@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <DictionarySearch />
+          <DictionarySearch defaultKeyWord="dog" />
         </main>
         <footer className="App-footer">
           This app was coded by Rishona Lee and is {""}
