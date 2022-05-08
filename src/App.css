@@ -28,6 +28,6 @@ a {
 }
 @media (max-width: 576px) {
   .App .dictionary-header {
-    font-size: 56px;
+    font-size: 52px;
   }
 }
