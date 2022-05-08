@@ -1,8 +1,10 @@
 body {
-  background: #f9f8fe;
+  background: rgb(181, 182, 196);
+  font-family: "Cinzel", serif;
 }
 a {
   color: #9670f4;
+  text-decoration: none;
 }
 .App {
   max-width: 960px;
@@ -11,4 +13,16 @@ a {
 .App-footer {
   text-align: center;
   margin: 30px 0;
+}
+.App footer a {
+  color: white;
+}
+.App footer a:hover {
+  color: #9670f4;
+}
+.App .dictionary-header {
+  font-size: 62px;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  margin-top: 20px;
 }
