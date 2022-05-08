@@ -11,7 +11,7 @@ function App() {
           <DictionarySearch defaultKeyWord="dog" />
         </main>
         <footer className="App-footer">
-          This app was coded by Rishona Lee and is {""}
+          This website was coded by Rishona Lee and is {""}
           <a
             href="https://github.com/Rishona9/dictionary-project-react"
             target="_blank"
