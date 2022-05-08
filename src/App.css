@@ -26,3 +26,8 @@ a {
   font-family: "Cinzel", serif;
   margin-top: 20px;
 }
+@media (max-width: 576px) {
+  .App .dictionary-header {
+    font-size: 56px;
+  }
+}
